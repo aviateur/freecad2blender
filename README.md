@@ -10,7 +10,7 @@ https://wiki.freecad.org/Tutorial_Render_with_Blender
 
 Sehr empfehlenswerter Yotube-Kanal u.a. zu FreeCAD
 
-https://www.youtube.com/@flowwiescorner
+https://www.youtube.com/@stolz3d
 
 Und eine gute Playlist auf einem empfehlenswerten Kanal zu Blender
 
